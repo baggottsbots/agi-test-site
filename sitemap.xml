@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://baggottsbots.github.io/agi-test-site/blog2/</loc>
+    <lastmod>2026-05-15T01:27:51.125Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://baggottsbots.github.io/agi-test-site/blog1/</loc>
     <lastmod>2026-05-15T01:27:42.056Z</lastmod>
     <changefreq>weekly</changefreq>
